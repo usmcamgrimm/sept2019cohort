@@ -1,3 +1,3 @@
 # sept2019cohort
 
-## Adrian Grimm
+[Adrian Grimm](https://github.com/usmcamgrimm)
