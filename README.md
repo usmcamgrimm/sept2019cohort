@@ -1,3 +1,3 @@
 # sept2019cohort
 
-[Kody Kennedy](https://github.com/KMac80)
+Kody Kennedy[https://github.com/KMac80]
