@@ -4,3 +4,4 @@
 [Jason Gilbert](https://github.com/gilbertjusmc)
 [Ben Winchester](http://github.com/bmw2621)
 [Tim Apple](https://twitter.com/OldVetCodes)
+[Stephen Clark](https://github.com/gixxerblade)
