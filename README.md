@@ -9,4 +9,6 @@
 * Tim Apple - [Twitter](https://twitter.com/OldVetCodes) - [Github](https://github.com/tdapple) - [Blog](https://sudorm-rf.dev)
 * [Ian Peterson](https://github.com/Irpeterson)
 * [Daniel Rodriguez](https://github.com/Warpanda13)
+* [Ken Hudak](https://github.com/kenhudak) - [Twitter](https://twitter.com/kenhudak519)
 *[Stephen Clark](https://github.com/gixxerblade)
+
