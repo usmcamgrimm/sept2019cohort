@@ -10,6 +10,6 @@
 - [Ian Peterson](https://github.com/Irpeterson)
 - [Daniel Rodriguez](https://github.com/Warpanda13)
 - Ken Hudak [Github](https://github.com/kenhudak) - [Twitter](https://twitter.com/kenhudak519) - [Dev.to](https://dev.to/kenhudak519)
-- [Stephen Clark](https://github.com/gixxerblade)
+- Stephen Clark - [Github](https://github.com/gixxerblade) - [Twitter](https://twitter.com/gixxerblade)
 - [Kody Kennedy](https://github.com/KMac80)
 - [Dave Bowlin](https://github.com/davebowlin)
