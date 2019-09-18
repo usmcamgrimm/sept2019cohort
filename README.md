@@ -2,7 +2,7 @@
 
 # sept2019cohort
 
-- Andre Marin [https://github.com/aamarin]
+- Andre Marin - [Github](https://github.com/aamarin)
 - Adrian Grimm - [GitHub](https://github.com/usmcamgrimm) - [Twitter](https://twitter.com/usmcamgrimm/) - [LinkedIn](https://www.linkedin.com/in/adrian-grimm-6a164a18/)
 - Jason Gilbert [Github](https://github.com/gilbertjusmc)
 - [Ben Winchester](http://github.com/bmw2621)
