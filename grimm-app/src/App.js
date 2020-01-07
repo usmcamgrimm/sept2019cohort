@@ -1,17 +1,18 @@
 import React from 'react';
 import logo from './logo.svg';
 import NavBar from './NavBar';
-import Footer from './Footer';
+import Button from './Button';
 import './App.css';
+
+const navTabs = ["Home", "About", "Contact", "Projects"];
 
 function App() {
   return (
-    <>
-
-      <NavBar name = 'Adrian' contact = 'Contact Me' />
-      <Footer year = '2020' />
-
-    </>
+    
+    <div className="App">
+      <NavBar navTabs={navTabs}/>
+      <Button></Button>
+    </div>
   );
 }
 

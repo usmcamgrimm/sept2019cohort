@@ -1,14 +1,11 @@
 import React from 'react';
 
 function NavBar(props) {
-    return ( 
-        <ul>
-            <li>Home</li>
-            <li>About {props.name}</li>
-            <li>{props.contact}</li>
-        </ul>
-    
-    );
-}
+    const navTabs = props.navTabs;
+    const navItems = navTabs.map((navItem) => {
+        return <li className="navlist">{navItem}</li>
+    });
+    return <ul className="nav">{navItems}</ul>
+};
 
 export default NavBar;

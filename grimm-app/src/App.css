@@ -7,6 +7,16 @@
   pointer-events: none;
 }
 
+.nav {
+  list-style: none;
+  text-align: left;
+}
+
+button {
+  border-radius: 8px;
+  padding: 12px 18px 12px 18px;
+  font-size: 1em;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
