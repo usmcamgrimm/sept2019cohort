@@ -1,5 +1,8 @@
-import React from 'react';
+import React from 'react'
+import { BrowserRouter as Router, Switch, Route, Link } from 'react-router-dom'
 
+{
+  /*
 function NavBar(props) {
     const navTabs = props.navTabs;
     const navItems = navTabs.map((navItem) => {
@@ -7,5 +10,7 @@ function NavBar(props) {
     });
     return <ul className="nav">{navItems}</ul>
 };
+*/
+}
 
-export default NavBar;
+export default NavBar
