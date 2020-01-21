@@ -6,4 +6,18 @@
 
 module.exports = {
   /* Your site config here */
+  plugins: [{
+    resolve: `gatsby-plugin-prefetch-google-fonts`,
+    options: {
+      fonts: [{
+          family: `Expletus Sans`,
+          subsets: [`latin`],
+        },
+        {
+          family: `Raleway`,
+          variants: [`400`, `700`]
+        },
+      ],
+    },
+  }]
 }
