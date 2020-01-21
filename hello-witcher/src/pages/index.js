@@ -6,6 +6,6 @@ export default () => (
   <div style={{ color: `#d50000` }}>
     <Link to="/about/">About</Link>
     <Header headerText="The Witcher" />
-    <p>What a world.</p>
+    <p>The world of the Witchers, coming soon</p>
   </div>
 )
