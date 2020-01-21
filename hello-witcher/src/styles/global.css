@@ -1,16 +1,13 @@
 html {
-  background-image: url("https://i.imgur.com/69F2c5A.jpg");
-  height: 100%;
-  width: auto;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+  background: #fefefe;
 }
+
 h1 {
   font-family: "Expletus Sans";
   text-align: center;
   font-size: 48px;
 }
+
 p {
   font-size: 30px;
 }
