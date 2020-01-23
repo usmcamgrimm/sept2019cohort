@@ -1,7 +1,8 @@
 import React from "react"
 import { Link } from "gatsby"
-import Header from "../components/header"
-import Container from "../components/container"
+import { render } from "react-router-dom"
+import { Router } from "@reach/router"
+import styles from "./index.module.css"
 
 {
   /*
@@ -14,9 +15,25 @@ export default () => (
 )
 */
 }
+
 export default () => (
-  <Container>
-    <h1>The Witcher</h1>
-    <h2>Enter</h2>
-  </Container>
+  <div>
+    <div className={styles.titleBox}>
+      <h1 style={styles.h1}>The Witcher</h1>
+    </div>
+    <div>
+      <nav>
+        <Link to="main">Enter</Link>
+      </nav>
+      <Router>
+        <Main path="main" />
+      </Router>
+    </div>
+  </div>
+)
+
+const Main = () => (
+  <div>
+    <h2 style={styles.h2}>Enter</h2>
+  </div>
 )

@@ -1,6 +1,6 @@
 import React from "react"
 import Container from "../components/container"
-import styles from "./about-css-modules.module.css"
+import styles from "./main.module.css"
 console.log(styles)
 
 const User = props => (

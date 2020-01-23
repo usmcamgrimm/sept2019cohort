@@ -1,11 +1,7 @@
-html {
-  background: #022a32;
-}
-
-h1 {
-  font-family: "Expletus Sans";
-  text-align: center;
-  font-size: 48px;
+html,
+body {
+  background: #f8f8f8;
+  margin: 0;
 }
 
 p {
