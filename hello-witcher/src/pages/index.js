@@ -29,6 +29,11 @@ export default () => (
         <Main path="main" />
       </Router>
     </div>
+    <img
+      style={styles.wolf}
+      src="../images/witcherBackground1.png"
+      alt="wolf school emblem"
+    />
   </div>
 )
 

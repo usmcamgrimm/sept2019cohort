@@ -27,3 +27,8 @@ nav a {
   color: #d72628;
   text-decoration: none;
 }
+
+wolf {
+  max-width: 100%;
+  height: auto;
+}
